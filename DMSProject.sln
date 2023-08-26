@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMSProject_WebUI", "DMSProject_WebUI\DMSProject_WebUI.csproj", "{962E77F6-F50C-4FD9-B554-54B30817EFBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSProject_Entity", "DMSProject_Entity\DMSProject_Entity.csproj", "{DB23D80C-1099-442B-AE5E-DE736357EA89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMSProject_Entity", "DMSProject_Entity\DMSProject_Entity.csproj", "{DB23D80C-1099-442B-AE5E-DE736357EA89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSProject_Data", "DMSProject_Data\DMSProject_Data.csproj", "{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DB23D80C-1099-442B-AE5E-DE736357EA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB23D80C-1099-442B-AE5E-DE736357EA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB23D80C-1099-442B-AE5E-DE736357EA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
