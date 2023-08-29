@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMSProject_WebUI", "DMSProj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMSProject_Entity", "DMSProject_Entity\DMSProject_Entity.csproj", "{DB23D80C-1099-442B-AE5E-DE736357EA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSProject_Data", "DMSProject_Data\DMSProject_Data.csproj", "{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMSProject_Data", "DMSProject_Data\DMSProject_Data.csproj", "{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSProject_Business", "DMSProject_Business\DMSProject_Business.csproj", "{0B11155F-C892-4E9A-89A2-B91E045D27AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FE6186D-7BCB-46C9-AD0E-3B1C1CD9F38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B11155F-C892-4E9A-89A2-B91E045D27AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B11155F-C892-4E9A-89A2-B91E045D27AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B11155F-C892-4E9A-89A2-B91E045D27AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B11155F-C892-4E9A-89A2-B91E045D27AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
